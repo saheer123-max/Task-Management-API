@@ -14,7 +14,6 @@
             var role = context.Request.Headers["Role"].ToString();
             var userId = context.Request.Headers["UserId"].ToString();
 
-           
             if (string.IsNullOrEmpty(role) || string.IsNullOrEmpty(userId))
             {
                 context.Response.StatusCode = 401;
@@ -22,22 +21,8 @@
                 return;
             }
 
-            if (userId == "1" && role == "Admin")
-            {
-                context.Items["UserId"] = userId;
-                context.Items["Role"] = role;
-            }
-            else if (userId == "2" && role == "User")
-            {
-                context.Items["UserId"] = userId;
-                context.Items["Role"] = role;
-            }
-            else
-            {
-                context.Response.StatusCode = 403;
-                await context.Response.WriteAsync("Invalid user credentials");
-                return;
-            }
+            context.Items["UserId"] = userId;
+            context.Items["Role"] = role;
 
             await _next(context);
         }
