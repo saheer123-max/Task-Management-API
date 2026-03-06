@@ -15,6 +15,9 @@ public class TaskService : ITaskService
     // Create Task
     public async Task CreateTask(CreateTaskDto dto, string userId)
     {
+        if (string.IsNullOrWhiteSpace(dto.Title))
+            throw new Exception("Title is required");
+
         var task = new TaskItem
         {
             Title = dto.Title,
