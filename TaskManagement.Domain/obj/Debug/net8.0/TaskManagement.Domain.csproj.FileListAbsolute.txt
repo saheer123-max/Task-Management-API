@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\TaskManagement\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.deps.json
+C:\Users\hp\source\repos\TaskManagement\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.dll
+C:\Users\hp\source\repos\TaskManagement\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Users\hp\source\repos\TaskManagement\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\TaskManagement\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TaskManagement\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfo.cs
+C:\Users\hp\source\repos\TaskManagement\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TaskManagement\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.sourcelink.json
+C:\Users\hp\source\repos\TaskManagement\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.dll
+C:\Users\hp\source\repos\TaskManagement\TaskManagement.Domain\obj\Debug\net8.0\refint\TaskManagement.Domain.dll
+C:\Users\hp\source\repos\TaskManagement\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Users\hp\source\repos\TaskManagement\TaskManagement.Domain\obj\Debug\net8.0\ref\TaskManagement.Domain.dll
