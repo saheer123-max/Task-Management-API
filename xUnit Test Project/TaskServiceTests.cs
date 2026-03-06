@@ -7,7 +7,7 @@ public class TaskServiceTests
     [Fact]
     public async Task CreateTask_ShouldCreateTask()
     {
-        // Arrange
+        
         var repo = new FakeTaskRepository();
         var service = new TaskService(repo);
 
@@ -17,7 +17,7 @@ public class TaskServiceTests
             Description = "Testing task"
         };
 
-        // Act
+   
         await service.CreateTask(dto, "2");
 
         // Assert

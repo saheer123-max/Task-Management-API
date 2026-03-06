@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\TaskManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\hp\\source\\repos\\TaskManagement\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CF51657-E39D-474F-8873-7D9094177368}|xUnit Test Project\\xUnit Test Project.csproj|c:\\users\\hp\\source\\repos\\taskmanagement\\xunit test project\\faketaskrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CF51657-E39D-474F-8873-7D9094177368}|xUnit Test Project\\xUnit Test Project.csproj|solutionrelative:xunit test project\\faketaskrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -91,6 +95,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TaskManagement\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-06T07:12:58.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FakeTaskRepository.cs.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\xUnit Test Project\\FakeTaskRepository.cs.cs",
               "RelativeDocumentMoniker": "xUnit Test Project\\FakeTaskRepository.cs.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TaskServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\xUnit Test Project\\TaskServiceTests.cs",
               "RelativeDocumentMoniker": "xUnit Test Project\\TaskServiceTests.cs",
@@ -111,12 +128,11 @@
               "RelativeToolTip": "xUnit Test Project\\TaskServiceTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T07:01:22.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T07:01:22.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement\\.gitignore",
               "RelativeDocumentMoniker": "TaskManagement\\.gitignore",
@@ -124,12 +140,11 @@
               "RelativeToolTip": "TaskManagement\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-06T06:21:23.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T06:21:23.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "TaskDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement.Application\\DTOs\\TaskDto.cs",
               "RelativeDocumentMoniker": "TaskManagement.Application\\DTOs\\TaskDto.cs",
@@ -137,12 +152,11 @@
               "RelativeToolTip": "TaskManagement.Application\\DTOs\\TaskDto.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:29:46.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:29:46.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UpdateTaskDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement.Application\\DTOs\\UpdateTaskDto.cs",
               "RelativeDocumentMoniker": "TaskManagement.Application\\DTOs\\UpdateTaskDto.cs",
@@ -150,12 +164,11 @@
               "RelativeToolTip": "TaskManagement.Application\\DTOs\\UpdateTaskDto.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAYwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:29:14.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:29:14.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CreateTaskDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement.Application\\DTOs\\CreateTaskDto.cs",
               "RelativeDocumentMoniker": "TaskManagement.Application\\DTOs\\CreateTaskDto.cs",
@@ -163,12 +176,11 @@
               "RelativeToolTip": "TaskManagement.Application\\DTOs\\CreateTaskDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:28:44.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:28:44.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement\\Program.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Program.cs",
@@ -176,12 +188,11 @@
               "RelativeToolTip": "TaskManagement\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAmwDEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:17:05.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:17:05.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FakeAuthMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement\\Middleware\\FakeAuthMiddleware.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Middleware\\FakeAuthMiddleware.cs",
@@ -189,12 +200,11 @@
               "RelativeToolTip": "TaskManagement\\Middleware\\FakeAuthMiddleware.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAmwC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:15:39.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:15:39.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Controllers\\TasksController.cs",
@@ -202,12 +212,11 @@
               "RelativeToolTip": "TaskManagement\\Controllers\\TasksController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAiwEQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:14:51.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:14:51.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
               "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
@@ -215,12 +224,11 @@
               "RelativeToolTip": "TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:10:32.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:10:32.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Data\\AppDbContext.cs",
@@ -228,12 +236,11 @@
               "RelativeToolTip": "TaskManagement.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:10:04.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:10:04.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TaskService.cs.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement.Application\\Services\\TaskService.cs.cs",
               "RelativeDocumentMoniker": "TaskManagement.Application\\Services\\TaskService.cs.cs",
@@ -241,12 +248,11 @@
               "RelativeToolTip": "TaskManagement.Application\\Services\\TaskService.cs.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAiwF8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:08:17.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:08:17.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ITaskService.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement.Application\\Interfaces\\ITaskService.cs",
               "RelativeDocumentMoniker": "TaskManagement.Application\\Interfaces\\ITaskService.cs",
@@ -254,12 +260,11 @@
               "RelativeToolTip": "TaskManagement.Application\\Interfaces\\ITaskService.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:05:59.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:05:59.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ITaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement.Domain\\Interfaces\\ITaskRepository.cs",
               "RelativeDocumentMoniker": "TaskManagement.Domain\\Interfaces\\ITaskRepository.cs",
@@ -267,12 +272,11 @@
               "RelativeToolTip": "TaskManagement.Domain\\Interfaces\\ITaskRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T05:03:05.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T05:03:05.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement.Domain\\Entities\\TaskItem.cs",
               "RelativeDocumentMoniker": "TaskManagement.Domain\\Entities\\TaskItem.cs",
@@ -280,12 +284,11 @@
               "RelativeToolTip": "TaskManagement.Domain\\Entities\\TaskItem.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA/wA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T04:54:27.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T04:54:27.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Class1.cs",
@@ -293,12 +296,11 @@
               "RelativeToolTip": "TaskManagement.Infrastructure\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T04:33:41.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T04:33:41.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TaskManagement\\TaskManagement.Application\\Class1.cs",
               "RelativeDocumentMoniker": "TaskManagement.Application\\Class1.cs",
@@ -306,8 +308,7 @@
               "RelativeToolTip": "TaskManagement.Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T04:33:00.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T04:33:00.102Z"
             }
           ]
         }

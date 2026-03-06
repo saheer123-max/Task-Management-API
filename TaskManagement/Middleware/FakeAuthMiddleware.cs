@@ -14,7 +14,7 @@
             var role = context.Request.Headers["Role"].ToString();
             var userId = context.Request.Headers["UserId"].ToString();
 
-            // header validation
+           
             if (string.IsNullOrEmpty(role) || string.IsNullOrEmpty(userId))
             {
                 context.Response.StatusCode = 401;
@@ -22,7 +22,6 @@
                 return;
             }
 
-            // Hardcoded users
             if (userId == "1" && role == "Admin")
             {
                 context.Items["UserId"] = userId;
